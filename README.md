@@ -10,7 +10,7 @@ Ce projet permet de générer une page HTML à partir d'un fichier Markdown.
 ## Bibliothèques utilisées
 * Markdown
 * Argparse
-* OS
+* Sys
 
 ## Manuel d'Utilisation
 Pour utiliser l'application, il vous faudra tout d'abord installer différentes librairies:
