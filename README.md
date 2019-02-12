@@ -17,7 +17,7 @@ Pour utiliser l'application, il vous faudra tout d'abord installer différentes 
 * **Markdown :** `pip install markdown`
 * **Argparse :** `pip install argparse`
 
-Ensuite ouvrez dans *une invite de commande* le fichier `main.py` puis ajoutez lui les commandes suivantes:
+Ensuite ouvrez dans *une invite de commande* le fichier `py/convert.py` puis ajoutez lui les commandes suivantes:
 * `mdfile` suivi du nom du fichier **Markdown** que vous souhaitez convertir ;
 * `-o` ou `--out` suivi du nom du fichier **HTML** ;
 
