@@ -23,7 +23,7 @@ Ensuite ouvrez dans *une invite de commande* le fichier `main.py` puis ajoutez l
 
 ## Site Web
 
-Le site web pour pouvoir avoir un apercu de l'avancement du projet est [ici](https://mdtohtml.cluster1.easy-hebergement.net/).
+Le site web pour pouvoir avoir un apercu de l'avancement du projet est [ici](https://mdtohtml.cluster1.easy-hebergement.net/). (Work in Progress)
 
 ## Licence
 MIT License
